@@ -6,15 +6,15 @@ Lists with worst IPv4 offenders, provided by [AbuseIPDB](https://www.abuseipdb.c
 
 <!-- FOOTER-PLACEHOLDER -->
 Updated every 5 hours<br>
-Last update: `2023-09-06 - 20:18:13`
+Last update: `2023-09-07 - 01:11:14`
 ```
-abuseipdb-s100-1d.ipset (24620 ip)
-abuseipdb-s100-2d.ipset (28595 ip)
-abuseipdb-s100-3d.ipset (30960 ip)
-abuseipdb-s100-7d.ipset (38368 ip)
-abuseipdb-s100-30d.ipset (62130 ip)
-abuseipdb-s100-60d.ipset (87179 ip)
-abuseipdb-s100-90d.ipset (100007 ip)
-abuseipdb-s100-120d.ipset (118580 ip)
-abuseipdb-s100-all.ipset (361937 ip)
+abuseipdb-s100-1d.ipset (23954 ip)
+abuseipdb-s100-2d.ipset (27822 ip)
+abuseipdb-s100-3d.ipset (30416 ip)
+abuseipdb-s100-7d.ipset (37867 ip)
+abuseipdb-s100-30d.ipset (61791 ip)
+abuseipdb-s100-60d.ipset (87130 ip)
+abuseipdb-s100-90d.ipset (100167 ip)
+abuseipdb-s100-120d.ipset (118202 ip)
+abuseipdb-s100-all.ipset (362082 ip)
 ```
